@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kisekae_tool version="3.0">
+  <head>
+    <title>Xperia feat. HATSUNE MIKU</title>
+    <thumbnail>miku_wallpaper_kei_thumbnail.png</thumbnail>
+    <description>Sony Xperia feat. HATSUNE MIKU SO-04E for DoCoMo
+(Muku home)</description>
+    <kisekae_url />
+  </head>
+  <area>
+    <text_color />
+    <text_outline_color>0x80000000</text_outline_color>
+    <pane_area>
+      <plate id="0">
+        <vertical>miku_wallpaper_kei_03.png</vertical>
+        <horizontal />
+      </plate>
+      <plate id="1">
+        <vertical>miku_wallpaper_kei_04.png</vertical>
+        <horizontal />
+      </plate>
+      <plate id="2">
+        <vertical>miku_wallpaper_kei_05.png</vertical>
+        <horizontal />
+      </plate>
+      <plate id="3">
+        <vertical>miku_wallpaper_kei_01.png</vertical>
+        <horizontal />
+      </plate>
+      <plate id="4">
+        <vertical>miku_wallpaper_kei_02.png</vertical>
+        <horizontal />
+      </plate>
+      <plate id="5">
+        <vertical />
+        <horizontal />
+      </plate>
+      <plate id="6">
+        <vertical />
+        <horizontal />
+      </plate>
+      <indicator>
+        <pane>
+          <select>grid_focused.9.png</select>
+          <unselect>grid_selected.9.png</unselect>
+        </pane>
+      </indicator>
+      <background>landscape_miku01.png</background>
+    </pane_area>
+    <dock_area>
+      <box_icon>ic_allapps.png</box_icon>
+      <dmag_icon>ic_allapps_pressed.png</dmag_icon>
+    </dock_area>
+    <box_area>
+      <background>
+        <vertical />
+        <horizontal />
+      </background>
+    </box_area>
+  </area>
+  <phonename>HD(NAVあり)</phonename>
+  <plate_shape />
+</kisekae_tool>
